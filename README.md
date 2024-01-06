@@ -9,5 +9,6 @@ This system uses 3/4 the belt length of a traditional corexy setup, and arguably
 
 
 Proof of convept video of the motion system in action.
+
 https://github.com/0ut5ider/3B-CoreXY/assets/88666133/187bf226-c366-476e-95e8-85fccbfaf282
 
